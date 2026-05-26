@@ -25,7 +25,8 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.rafasmlee.exerciciotesteunitarios"
+      "package": "com.rafasmlee.exerciciotesteunitarios",
+      "versionCode": 3
     },
     "web": {
       "favicon": "./assets/favicon.png"
